@@ -7,7 +7,7 @@ import { ArrowRight } from 'lucide-react';
 
 const properties = [
   {
-    image: '/prop1.png',
+    image: '/premium-property-agent/prop1.png',
     title: 'The Azure Villa',
     location: 'Malibu, California',
     price: '$8,500,000',
@@ -17,7 +17,7 @@ const properties = [
     tag: 'FOR SALE'
   },
   {
-    image: '/prop2.png',
+    image: '/premium-property-agent/prop2.png',
     title: 'Skyline Penthouse',
     location: 'Manhattan, New York',
     price: '$12,000,000',
@@ -27,7 +27,7 @@ const properties = [
     tag: 'FEATURED'
   },
   {
-    image: '/prop3.png',
+    image: '/premium-property-agent/prop3.png',
     title: 'Tropical Sanctuary',
     location: 'Bali, Indonesia',
     price: '$3,200,000',

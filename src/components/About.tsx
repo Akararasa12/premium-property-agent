@@ -25,7 +25,7 @@ const About = () => {
           >
             <div className="relative rounded-[2.5rem] overflow-hidden border border-white/10 shadow-2xl aspect-[4/5] lg:aspect-auto lg:h-[600px]">
               <img 
-                src="/about.png" 
+                src="/premium-property-agent/about.png" 
                 alt="Our Office" 
                 className="w-full h-full object-cover"
               />
